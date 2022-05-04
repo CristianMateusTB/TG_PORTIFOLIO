@@ -1,5 +1,9 @@
 # Cristian Mateus Teixeira Barbosa
-
+<body>
+  <div align="center">
+    <kbd><img src="https://github.com/CristianMateusTB/TG_PORTIFOLIO/blob/main/Assets/Cristian.jpg" width="200px" height="200px"/></kbd>
+  </div>
+</body>
 
 
 ### :book: introdução
@@ -77,20 +81,24 @@ Foi desenvolvido um aplicativo de gerenciamento para controle da jornada de trab
 
 
 ##### Tecnologias Utilizadas
+[App inventor](https://appinventor.mit.edu) e  [kodular](https://www.kodular.io)  - é uma linguagem visual de blocos para criar aplicativos Android.
+[Java](https://www.java.com/pt-BR/) -
 
-Java
+[Java swing]() -
 
-Java swing
+[PostgreSQL]() -
 
-PostgreSQL
-
-NetBeans
+[NetBeans]() -
 
 
 
 ##### Contribuições pessoais 
 
 Desenvolvimento do banco de dados 
+
+##### Hard skill
+
+PostgreSQL - Sei com autonomia
 
 ##### Soft skills
 
