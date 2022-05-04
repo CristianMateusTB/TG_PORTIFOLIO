@@ -1,19 +1,17 @@
-# TG_PORTIFOLIO
 # Cristian Mateus Teixeira Barbosa
 
 
 
 ### :book: introdução
 
-Meu nome é Cristian Mateus teixeira Barbosa TENHO 20 anos, atualmente estou Curso de Analise e desenvolvimento de Software.
+Meu nome é Cristian Mateus Teixeira Barbosa Tenho 20 anos, atualmente estou Curso de Analise e desenvolvimento de Software.
 
 
 
 ## :man_technologist: Meus projetos
 
- <details>
-
-### <sumary>Em 2020-1 </sumary>
+<details>
+  <summary>Em 2020-1</summary>
 
 O projeto integrador no inicio de 2020 foi de um aplicativo de segurança domiciliar, que foi desenvolvido e criado para uma inovação no mercado de segurança, com a facilidade e funcionalidade de ter a autonomia da segurança do seu domicílio.
 
@@ -59,6 +57,113 @@ Comunicação - foi de grande importância para o desenvolvimento do projeto, e 
 
 aprender a aprender - como ainda novo e não conhecia muito sobre a área a aprender a adquirir conhecimentos e disposição para o desenvolvimento do projeto .
 
-planejamento - foi necessário o planejamento constante para definirmos os estagios de desenvolvimento do projeto e de como organizaríamos as tarefas do projetos.
+planejamento - foi necessário o planejamento constante para definirmos os estágios de desenvolvimento do projeto e de como organizaríamos as tarefas do projetos.
 
 </details>
+
+
+
+<details>
+  <summary>Em 2020-2</summary>
+
+Foi desenvolvido um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento,acompanhamento e controle.
+
+##### :man_teacher: Parceiro Acadêmico
+
+[IACIT](https://www.iacit.com.br)
+
+[GIT](https://github.com/DevSlim001/PI_2020.2)
+
+
+
+##### Tecnologias Utilizadas
+
+Java
+
+Java swing
+
+PostgreSQL
+
+NetBeans
+
+
+
+##### Contribuições pessoais 
+
+Desenvolvimento do banco de dados 
+
+##### Soft skills
+
+
+
+</details>
+
+
+
+<details>
+  <summary>Em 2021-1</summary>
+
+
+
+##### :man_teacher: Parceiro Acadêmico
+
+[NESS Health](https://ness.com.br/health.php) empresa de tecnologia que inova e transforma diariamente a área da saúde, implementando tecnologias que transformam a medicina moderna.
+
+[GIT](https://github.com/DevSlim001/API_NEDUC)
+
+
+
+##### Tecnologias Utilizadas
+
+Java
+
+HTML 5
+
+CSS 3
+
+Spring
+
+Mysql
+
+##### Contribuições pessoais 
+
+##### Soft skills
+
+
+
+<details>
+  <summary>Em 2021-2</summary>
+
+
+
+##### :man_teacher: Parceiro Acadêmico
+
+[Embraer](https://embraer.com/br/pt)
+
+[GIT](https://github.com/DevSlim001/API_Slim_4Semestre)
+
+##### Tecnologias Utilizadas
+
+Java
+
+HTML 5
+
+CSS 3
+
+Spring
+
+JavaScript
+
+ReactJs
+
+##### Contribuições pessoais 
+
+##### Soft skills
+
+
+
+</details>
+
+
+
+### 
