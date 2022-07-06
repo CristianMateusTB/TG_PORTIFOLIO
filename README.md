@@ -11,11 +11,12 @@
     <kbd><img src="https://github.com/CristianMateusTB/TG_PORTIFOLIO/blob/main/Assets/Cristian.jpg" width="200px" height="200px"/></kbd>
   </div>
 
+
 </body>
 
 ### :computer:Apresentação
 
-Meu nome é Cristian Mateus Teixeira Barbosa Tenho 20 anos, atualmente estou Curso de Analise e desenvolvimento de Software.
+Meu nome é Cristian Mateus Teixeira Barbosa, Tenho 20 anos, atualmente estou Cursando Analise e desenvolvimento de Software na FATEC - Prof. Jessen Vidal.
 
 
 
@@ -27,7 +28,11 @@ Meu nome é Cristian Mateus Teixeira Barbosa Tenho 20 anos, atualmente estou Cur
 
 [Em 2021-1](https://github.com/CristianMateusTB/TG_PORTIFOLIO/tree/API_3)
 
-[Em 2022-2](https://github.com/CristianMateusTB/TG_PORTIFOLIO/tree/API_4)
+[Em 2021-2](https://github.com/CristianMateusTB/TG_PORTIFOLIO/tree/API_4)
+
+[Em 2022-1](https://github.com/CristianMateusTB/TG_PORTIFOLIO/tree/API_5)
+
+[Em 2022-2](https://github.com/CristianMateusTB/TG_PORTIFOLIO/tree/API_6)
 
 
 
@@ -41,7 +46,7 @@ JavaScript
 
 
 
-Contatos
+### Contatos
 
 [Instagram](https://www.instagram.com/cristian.mateus.0/)
 
